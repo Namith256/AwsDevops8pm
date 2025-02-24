@@ -1,5 +1,0 @@
-understanding the merge vs rebase
-
-line 1 
-line 2 
-line 3 
